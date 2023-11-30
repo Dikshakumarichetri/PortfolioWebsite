@@ -18,6 +18,7 @@ function App() {
     <Projects />
     <Contact />
     <Footer />
+    {/* testing push in github */}
     </div>
   );
 }
